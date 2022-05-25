@@ -1,6 +1,6 @@
 ## Hey, this is us 👋
 
-![An Illustration showing the screenshots of the Synthr App and its features](https://github.com/Synthrio/.github/blob/master/Capture.PNG)
+![An Illustration showing the screenshots of the Synthr App and its features](https://github.com/Synthrio/.github/blob/master/profile/Capture2.PNG)
 
 Yes, we are building a decentralzed protocol to enable traders to trade synthetic assets in a safe, capital efficient and a trustless manner. Death spiral resitant :face_with_spiral_eyes: and peg protected :magnet: :chart:. 
 
