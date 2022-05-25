@@ -29,11 +29,7 @@ See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ a
 <details> 
 	<summary>"Tell me more, I can't get enough!"</summary>
 	<br>
-	<ul>
-	<li>
 	<div style="padding:63% 0 0 0; position:relative;"><iframe src="https://app.databox.com/datawall/893bef32e42ef48956c58eb5ab1156770628df6d2?i" style="position:absolute; top:0; left:0; width:100%; height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
-	</li>
-	</ul>
 </details>
 
 ---
