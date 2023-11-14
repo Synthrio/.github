@@ -1,8 +1,8 @@
 ## Hey, welcome to the SYNTHR Github 👋
 
-![1500x500](https://user-images.githubusercontent.com/103804110/198894590-89c09264-3080-42a1-bd5d-9296802b183c.jpeg)
+![1500x500](https://imgur.com/nbBl1WM.png)
 
-We are building an **omnichain synthetic asset protocol**, powered by **LayerZero**, that provides users access to frictionless interoperability and slippage-free multichain liquidity. SYNTHR provides users with guaranteed and instant finality across ecosystems using a trustless method of valid delivery facilitated by an independent oracle and relayer, thus making our cross-chain communication infrastructure as secure as an oracle in a base case and even more secure in an optimisitic case.
+We are building an **omnichain synthetic asset protocol**, powered by **LayerZero**, that provides users access to frictionless interoperability and slippage-free multichain liquidity. SYNTHR provides users with guaranteed and instant finality across ecosystems using a trustless method of valid delivery facilitated by an independent oracle and relayer, thus making our cross-chain communication infrastructure as secure as an oracle in a base case and even more secure in an optimistic case.
 
 ### How does SYNTHR benefit users?
 1. Users can swap into any asset on any chain with zero slippage, using the internal DEX, SYNTHSWAP.
