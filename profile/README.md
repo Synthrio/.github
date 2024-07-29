@@ -18,8 +18,6 @@ We are building an **omnichain synthetic asset protocol**, powered by **LayerZer
 
 We’ve been building since **February 19th, 2021** and we don't plan on stopping anytime soon. That's when we made our first commit. Since then we have pushed **over 20k commits**, opened **over 300 issues**, submitted roughly **80 pull requests** across **4 repositories**.
 
-Track the work on our [Internal Development Tracker Board](https://app.databox.com/datawall/893bef32e42ef48956c58eb5ab1156770628df6d2)!
-
 ### Building an interconnected community
 
 The open source community is at the heart of SYNTHR and fundamental to how we build our protocol. If you are interested in helping us, reach out to us at ritwik@synthr.io.
