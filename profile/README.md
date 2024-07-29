@@ -22,7 +22,7 @@ Track the work on our [Internal Development Tracker Board](https://app.databox.c
 
 ### Building an interconnected community
 
-The open source community is at the heart of SYNTHR and fundamental to how we build our protocol. If you are interested in helping us, reach out to us at nitin@synthr.io.
+The open source community is at the heart of SYNTHR and fundamental to how we build our protocol. If you are interested in helping us, reach out to us at ritwik@synthr.io.
 
 You can follow us on [Twitter](https://twitter.com/synthr_defi).</p>
 Check out our [Whitepaper](https://synthr.io/static/docs/Synthr_WP.pdf).
